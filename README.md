@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sulisumen peter</h1>
 <h3 align="center">A passionate frontend developer,AI Automation Engineer, and Cybersecurity Professional from Lagos,Nigeria</h3>
 
-- 👨‍💻 All of my projects are available at [sulisumenpeterportfolio.netlify.app](sulisumenpeterportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at https://sulisumenpeterportfolio.netlify.app/
 
 - 📫 How to reach me **sulisumennyibangs@gmail.com**
 
